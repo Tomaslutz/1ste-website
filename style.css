@@ -1,5 +1,7 @@
 p {
   color: red;
+  text-align: center;
+  font-size: 1.3em;
 }
 a {
   color: blue;
@@ -9,6 +11,7 @@ body {
     font-size: 14px;
     color: navy;
    font-family: arial, helvetica, sans-serif;
+  background-color: mediumpurple;
 }
 
 h1 {
@@ -20,8 +23,8 @@ h1 {
 h2 {
   font-size: 1.5em;
   background-color: #ccc;
-    margin: 20px;
-    padding: 40px;
+    margin: 5px;
+    padding: 20px;
   border-style: dashed;
   border-width: 3px;
   border-left-width: 10px;
